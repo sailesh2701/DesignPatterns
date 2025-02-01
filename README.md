@@ -1,3 +1,3 @@
 # DesignPatterns
 
-Validating Different Design Patterns.!!
+Different design Patterns
