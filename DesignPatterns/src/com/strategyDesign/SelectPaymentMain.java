@@ -2,6 +2,7 @@ package com.strategyDesign;
 
 import java.util.Scanner;
 
+//Behaviour
 public class SelectPaymentMain {
 	public static void main(String args[]) {
 

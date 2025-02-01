@@ -1,5 +1,6 @@
 package com.adaptorDesign;
 
+//Structural
 public class MainAdaptor {
 
 	public static void main(String[] args) {
@@ -24,9 +25,7 @@ public class MainAdaptor {
 		 * 
 		 * Class B{ private A a;
 		 * 
-		 * public B(A a){ this.a=a }
-		 * (Or)
-		 * public void setA(A a){ this.a=a; }
+		 * public B(A a){ this.a=a } (Or) public void setA(A a){ this.a=a; }
 		 * 
 		 * public void someRandomMethodInB(){ a.MethodInA(); }
 		 * 
