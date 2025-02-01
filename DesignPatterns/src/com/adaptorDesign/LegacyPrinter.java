@@ -1,6 +1,6 @@
 package com.adaptorDesign;
 
-//Existing Class
+//Existing Class.!
 public class LegacyPrinter {
 
 	public void print(String st) {
