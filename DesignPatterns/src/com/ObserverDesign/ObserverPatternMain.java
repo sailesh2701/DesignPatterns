@@ -1,4 +1,5 @@
 package com.ObserverDesign;
+
 //Behavioral Design Pattern
 public class ObserverPatternMain {
 	public static void main(String args[]) {
