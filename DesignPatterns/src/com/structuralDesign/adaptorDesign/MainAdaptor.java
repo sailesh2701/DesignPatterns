@@ -1,4 +1,4 @@
-package com.adaptorDesign;
+package com.structuralDesign.adaptorDesign;
 
 //Structural
 public class MainAdaptor {

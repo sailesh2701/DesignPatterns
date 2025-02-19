@@ -1,4 +1,4 @@
-package com.builderDesign;
+package com.creationalDesign.builder;
 
 public class PhoneBuilder {
 	private String os;

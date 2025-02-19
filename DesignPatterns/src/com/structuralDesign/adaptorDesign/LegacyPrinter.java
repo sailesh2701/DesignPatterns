@@ -1,4 +1,4 @@
-package com.adaptorDesign;
+package com.structuralDesign.adaptorDesign;
 
 //Existing Class.!
 public class LegacyPrinter {

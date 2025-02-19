@@ -1,4 +1,4 @@
-package com.builderDesign;
+package com.creationalDesign.builder;
 
 //Creational Design
 public class PhonShop {

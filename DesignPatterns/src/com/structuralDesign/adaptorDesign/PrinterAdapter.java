@@ -1,4 +1,4 @@
-package com.adaptorDesign;
+package com.structuralDesign.adaptorDesign;
 
 public class PrinterAdapter implements ModeratePrinter {
 
