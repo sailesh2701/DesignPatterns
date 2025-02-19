@@ -1,4 +1,4 @@
-package com.singleTonDesign;
+package com.creationalDesign.singleTon;
 
 public class SingleTonMain {
 
