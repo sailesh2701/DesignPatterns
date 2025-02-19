@@ -1,4 +1,4 @@
-package com.strategyDesign;
+package com.behavioralDesign.strategy;
 
 import java.util.Scanner;
 

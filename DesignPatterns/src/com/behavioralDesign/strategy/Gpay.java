@@ -1,4 +1,4 @@
-package com.strategyDesign;
+package com.behavioralDesign.strategy;
 
 public class Gpay implements Payment {
 

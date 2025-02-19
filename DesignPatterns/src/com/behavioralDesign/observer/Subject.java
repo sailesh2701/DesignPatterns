@@ -1,4 +1,4 @@
-package com.ObserverDesign;
+package com.behavioralDesign.observer;
 
 public interface Subject {
 
