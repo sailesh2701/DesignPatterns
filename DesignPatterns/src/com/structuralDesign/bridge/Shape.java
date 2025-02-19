@@ -1,4 +1,4 @@
-package com.bridgeDesign;
+package com.structuralDesign.bridge;
 
 abstract class Shape {
 	protected Colour color; // Bridge to Color

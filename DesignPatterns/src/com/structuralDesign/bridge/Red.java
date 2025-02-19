@@ -1,6 +1,6 @@
-package com.bridgeDesign;
+package com.structuralDesign.bridge;
 
-public class Blue implements Colour {
+public class Red implements Colour {
 
 	@Override
 	public void applyColor() {

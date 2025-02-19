@@ -1,4 +1,4 @@
-package com.bridgeDesign;
+package com.structuralDesign.bridge;
 
 public class Circle extends Shape {
 	public Circle(Colour color) {
